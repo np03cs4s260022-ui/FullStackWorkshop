@@ -1,0 +1,24 @@
+#nav-list{
+	display:flex;
+	justify-content:space-between;
+	list-style-type: none;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+:root {
+  --primary-bg-color: #BEDEFF;
+  --primary-color: #BEDEFF;
+}
+
+body {
+  background-color: var(--primary-bg-color);
+}
+section img {
+	width:500px;
+	max-width:100%;
+	height:auto;
+}
